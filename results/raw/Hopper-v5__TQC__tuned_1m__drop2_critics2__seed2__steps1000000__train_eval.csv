@@ -1,0 +1,2 @@
+run_id,track,env_id,algorithm,setting_name,seed,timestep,eval_mean_return,eval_std_return,eval_median_return,eval_min_return,eval_max_return,eval_mean_ep_length,eval_std_ep_length,n_eval_episodes,wall_clock_seconds_so_far
+Hopper-v5__TQC__tuned_1m__drop2_critics2__seed2__steps1000000,tuned_1m,Hopper-v5,TQC,drop2_critics2,2,25000,1316.438046,21.574112517795875,1310.7806380000002,1290.877848,1357.211535,1000.0,0.0,10,0.0

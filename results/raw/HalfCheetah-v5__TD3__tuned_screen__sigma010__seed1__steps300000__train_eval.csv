@@ -1,0 +1,13 @@
+run_id,track,env_id,algorithm,setting_name,seed,timestep,eval_mean_return,eval_std_return,eval_median_return,eval_min_return,eval_max_return,eval_mean_ep_length,eval_std_ep_length,n_eval_episodes,wall_clock_seconds_so_far
+HalfCheetah-v5__TD3__tuned_screen__sigma010__seed1__steps300000,tuned_screen,HalfCheetah-v5,TD3,sigma010,1,25000,1843.1554417,97.01596134213578,1836.1810365000001,1689.93575,2023.790322,1000.0,0.0,10,0.0
+HalfCheetah-v5__TD3__tuned_screen__sigma010__seed1__steps300000,tuned_screen,HalfCheetah-v5,TD3,sigma010,1,50000,3835.6114056000006,882.0186010575321,4123.0371405000005,1256.091797,4443.645462,1000.0,0.0,10,0.0
+HalfCheetah-v5__TD3__tuned_screen__sigma010__seed1__steps300000,tuned_screen,HalfCheetah-v5,TD3,sigma010,1,75000,5309.298438899999,151.914171104312,5318.0590375,5044.057955,5567.82853,1000.0,0.0,10,0.0
+HalfCheetah-v5__TD3__tuned_screen__sigma010__seed1__steps300000,tuned_screen,HalfCheetah-v5,TD3,sigma010,1,100000,5001.0729306,379.46081906230495,5101.7139179999995,3973.804672,5402.437119,1000.0,0.0,10,0.0
+HalfCheetah-v5__TD3__tuned_screen__sigma010__seed1__steps300000,tuned_screen,HalfCheetah-v5,TD3,sigma010,1,125000,6125.7325349,67.45654249407268,6104.2451255,6051.275464,6260.461379,1000.0,0.0,10,0.0
+HalfCheetah-v5__TD3__tuned_screen__sigma010__seed1__steps300000,tuned_screen,HalfCheetah-v5,TD3,sigma010,1,150000,6467.5563256000005,90.26050887854882,6474.030343,6318.250057,6615.700495,1000.0,0.0,10,0.0
+HalfCheetah-v5__TD3__tuned_screen__sigma010__seed1__steps300000,tuned_screen,HalfCheetah-v5,TD3,sigma010,1,175000,6561.6786753,102.0208927685471,6553.368493,6392.383034,6792.428073,1000.0,0.0,10,0.0
+HalfCheetah-v5__TD3__tuned_screen__sigma010__seed1__steps300000,tuned_screen,HalfCheetah-v5,TD3,sigma010,1,200000,7128.4761038,154.75212583596675,7130.482566,6910.58875,7442.150012,1000.0,0.0,10,0.0
+HalfCheetah-v5__TD3__tuned_screen__sigma010__seed1__steps300000,tuned_screen,HalfCheetah-v5,TD3,sigma010,1,225000,7511.025325500001,132.59428135299208,7517.2067785,7338.38104,7786.207403,1000.0,0.0,10,0.0
+HalfCheetah-v5__TD3__tuned_screen__sigma010__seed1__steps300000,tuned_screen,HalfCheetah-v5,TD3,sigma010,1,250000,7694.3060317,125.12415269159014,7718.4643015,7370.963124,7843.487714,1000.0,0.0,10,0.0
+HalfCheetah-v5__TD3__tuned_screen__sigma010__seed1__steps300000,tuned_screen,HalfCheetah-v5,TD3,sigma010,1,275000,8074.2917818000005,97.9310338677319,8055.7376935,7876.559482,8215.399024,1000.0,0.0,10,0.0
+HalfCheetah-v5__TD3__tuned_screen__sigma010__seed1__steps300000,tuned_screen,HalfCheetah-v5,TD3,sigma010,1,300000,8127.193893600001,132.87209355849885,8124.937664,7905.932553,8330.326429,1000.0,0.0,10,0.0

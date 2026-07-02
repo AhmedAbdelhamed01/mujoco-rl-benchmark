@@ -1,0 +1,9 @@
+run_id,track,env_id,algorithm,setting_name,seed,timestep,eval_mean_return,eval_std_return,eval_median_return,eval_min_return,eval_max_return,eval_mean_ep_length,eval_std_ep_length,n_eval_episodes,wall_clock_seconds_so_far
+Hopper-v5__SAC__tuned_screen__ls10k__seed0__steps300000,tuned_screen,Hopper-v5,SAC,ls10k,0,125000,320.86095770000003,6.088452302851886,322.7772,310.340109,329.21041,138.8,2.7129319932501073,10,0.0
+Hopper-v5__SAC__tuned_screen__ls10k__seed0__steps300000,tuned_screen,Hopper-v5,SAC,ls10k,0,150000,342.86620039999997,2.741124773348198,342.98687700000005,338.612722,346.907719,145.3,4.313930922024598,10,0.0
+Hopper-v5__SAC__tuned_screen__ls10k__seed0__steps300000,tuned_screen,Hopper-v5,SAC,ls10k,0,175000,318.5956827,6.44418057687683,318.15259000000003,309.734045,329.581982,141.4,4.779121258139408,10,0.0
+Hopper-v5__SAC__tuned_screen__ls10k__seed0__steps300000,tuned_screen,Hopper-v5,SAC,ls10k,0,200000,383.9364021,1.3298247463342279,383.9951565,380.939868,385.721454,148.8,0.6,10,0.0
+Hopper-v5__SAC__tuned_screen__ls10k__seed0__steps300000,tuned_screen,Hopper-v5,SAC,ls10k,0,225000,351.4433381,8.44030847587844,352.952456,340.183096,361.00663,144.1,3.0479501308256336,10,0.0
+Hopper-v5__SAC__tuned_screen__ls10k__seed0__steps300000,tuned_screen,Hopper-v5,SAC,ls10k,0,250000,655.4133744000001,4.2896156836872015,655.2822265,647.197531,661.995579,211.9,1.1357816691600546,10,0.0
+Hopper-v5__SAC__tuned_screen__ls10k__seed0__steps300000,tuned_screen,Hopper-v5,SAC,ls10k,0,275000,440.8921706,26.683674639143558,437.4801395,393.830712,488.082486,152.0,6.196773353931867,10,0.0
+Hopper-v5__SAC__tuned_screen__ls10k__seed0__steps300000,tuned_screen,Hopper-v5,SAC,ls10k,0,300000,969.3204378,130.89629313438806,1026.580719,758.677915,1116.363496,295.8,36.77716682943372,10,0.0

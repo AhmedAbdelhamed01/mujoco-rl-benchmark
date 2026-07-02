@@ -1,0 +1,6 @@
+hypothesis,test_metric,ppo_avg,off_policy_avg,supported
+H1: Off-policy more sample efficient than PPO,AUC and return at 250K/500K,1732.7692362467449,5987.263526068793,TBD — requires sample efficiency curves
+H2: SAC more stable than TD3 on balance tasks,"Std, IQM, collapse rate on Hopper/Walker2d",5424.469411214192,6172.3958740234375,"SAC avg=5424.5, TD3 avg=6172.4"
+H3: TD3 outperforms DDPG,Default and tuned 1M returns,6172.3958740234375,4112.165534125434,"TD3 avg=6172.4, DDPG avg=4112.2"
+H4: TQC reaches high return at higher compute cost,"Final return, wall-clock, return/hour",6364.92529296875,5424.469411214192,"TQC avg=6364.9, SAC avg=5424.5"
+H5: Walker2d produces largest performance gaps,"Range, variance across algorithms per env",,,TBD — requires per-env analysis

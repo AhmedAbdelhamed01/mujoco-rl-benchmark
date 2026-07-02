@@ -1,0 +1,16 @@
+env_id,algorithm,selected_setting,screening_seeds,screening_timesteps,iqm_return,collapse_rate,wall_clock_mean,selection_reason
+HalfCheetah-v5,PPO,vecnorm_large,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration
+HalfCheetah-v5,SAC,ls25k,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration
+HalfCheetah-v5,TD3,sigma010,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration
+HalfCheetah-v5,DDPG,normal_sigma005,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration
+HalfCheetah-v5,TQC,drop2_critics2,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration
+Hopper-v5,PPO,vecnorm_large,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration
+Hopper-v5,SAC,ls25k,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration
+Hopper-v5,TD3,sigma010,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration
+Hopper-v5,DDPG,normal_sigma005,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration
+Hopper-v5,TQC,drop2_critics5,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration
+Walker2d-v5,PPO,vecnorm_large,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration
+Walker2d-v5,SAC,ls10k,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration
+Walker2d-v5,TD3,sigma005,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration
+Walker2d-v5,DDPG,normal_sigma005,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration
+Walker2d-v5,TQC,drop2_critics2,"0,1",300000,0.0,0.0,0.0,Selected as screening winner / trained configuration

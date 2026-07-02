@@ -1,0 +1,9 @@
+run_id,track,env_id,algorithm,setting_name,seed,timestep,eval_mean_return,eval_std_return,eval_median_return,eval_min_return,eval_max_return,eval_mean_ep_length,eval_std_ep_length,n_eval_episodes,wall_clock_seconds_so_far
+HalfCheetah-v5__SAC__tuned_screen__ls25k__seed0__steps300000,tuned_screen,HalfCheetah-v5,SAC,ls25k,0,125000,5267.7973513,101.18078628588,5283.651744000001,5115.358171,5443.376822,1000.0,0.0,10,0.0
+HalfCheetah-v5__SAC__tuned_screen__ls25k__seed0__steps300000,tuned_screen,HalfCheetah-v5,SAC,ls25k,0,150000,6068.142581900001,97.45181478207495,6082.937980000001,5861.12577,6205.582405,1000.0,0.0,10,0.0
+HalfCheetah-v5__SAC__tuned_screen__ls25k__seed0__steps300000,tuned_screen,HalfCheetah-v5,SAC,ls25k,0,175000,6656.5780577,90.53053222455111,6679.570259,6446.801129,6799.593241,1000.0,0.0,10,0.0
+HalfCheetah-v5__SAC__tuned_screen__ls25k__seed0__steps300000,tuned_screen,HalfCheetah-v5,SAC,ls25k,0,200000,7018.5330804,87.35408828331106,7040.4411925,6860.755455,7134.060884,1000.0,0.0,10,0.0
+HalfCheetah-v5__SAC__tuned_screen__ls25k__seed0__steps300000,tuned_screen,HalfCheetah-v5,SAC,ls25k,0,225000,7254.328923700001,83.35745596209574,7274.9854355,7048.267128,7335.837047,1000.0,0.0,10,0.0
+HalfCheetah-v5__SAC__tuned_screen__ls25k__seed0__steps300000,tuned_screen,HalfCheetah-v5,SAC,ls25k,0,250000,7429.735593400001,92.96646373853739,7431.0506585,7266.566364,7545.083291,1000.0,0.0,10,0.0
+HalfCheetah-v5__SAC__tuned_screen__ls25k__seed0__steps300000,tuned_screen,HalfCheetah-v5,SAC,ls25k,0,275000,7879.7139446,98.200974669442,7848.222147500001,7714.261651,8031.17592,1000.0,0.0,10,0.0
+HalfCheetah-v5__SAC__tuned_screen__ls25k__seed0__steps300000,tuned_screen,HalfCheetah-v5,SAC,ls25k,0,300000,8117.3081538999995,148.82434259193062,8123.306859,7767.157877,8307.012913,1000.0,0.0,10,0.0

@@ -1,0 +1,13 @@
+run_id,track,env_id,algorithm,setting_name,seed,timestep,eval_mean_return,eval_std_return,eval_median_return,eval_min_return,eval_max_return,eval_mean_ep_length,eval_std_ep_length,n_eval_episodes,wall_clock_seconds_so_far
+HalfCheetah-v5__PPO__tuned_screen__vecnorm_large__seed0__steps300000,tuned_screen,HalfCheetah-v5,PPO,vecnorm_large,0,25000,-80.53323850000001,1.4547602574102902,-80.772445,-82.818533,-77.24555,1000.0,0.0,10,0.0
+HalfCheetah-v5__PPO__tuned_screen__vecnorm_large__seed0__steps300000,tuned_screen,HalfCheetah-v5,PPO,vecnorm_large,0,50000,267.143549,318.19544672978617,497.3315,-173.063651,582.938967,1000.0,0.0,10,0.0
+HalfCheetah-v5__PPO__tuned_screen__vecnorm_large__seed0__steps300000,tuned_screen,HalfCheetah-v5,PPO,vecnorm_large,0,75000,738.0300927999999,35.133024732744275,725.3493605,697.960947,812.091717,1000.0,0.0,10,0.0
+HalfCheetah-v5__PPO__tuned_screen__vecnorm_large__seed0__steps300000,tuned_screen,HalfCheetah-v5,PPO,vecnorm_large,0,100000,-100.5285527,2.757500601522257,-101.321002,-103.564117,-93.547145,1000.0,0.0,10,0.0
+HalfCheetah-v5__PPO__tuned_screen__vecnorm_large__seed0__steps300000,tuned_screen,HalfCheetah-v5,PPO,vecnorm_large,0,125000,957.8217181,37.957051306944535,962.7173204999999,888.053626,1028.289615,1000.0,0.0,10,0.0
+HalfCheetah-v5__PPO__tuned_screen__vecnorm_large__seed0__steps300000,tuned_screen,HalfCheetah-v5,PPO,vecnorm_large,0,150000,910.2913930000001,426.3810807701559,1043.9264075,-361.804467,1095.925387,1000.0,0.0,10,0.0
+HalfCheetah-v5__PPO__tuned_screen__vecnorm_large__seed0__steps300000,tuned_screen,HalfCheetah-v5,PPO,vecnorm_large,0,175000,1124.7237983,63.11033110145981,1143.863449,988.552161,1207.099761,1000.0,0.0,10,0.0
+HalfCheetah-v5__PPO__tuned_screen__vecnorm_large__seed0__steps300000,tuned_screen,HalfCheetah-v5,PPO,vecnorm_large,0,200000,1147.4626968,35.953938360750996,1141.4289370000001,1081.861755,1203.883397,1000.0,0.0,10,0.0
+HalfCheetah-v5__PPO__tuned_screen__vecnorm_large__seed0__steps300000,tuned_screen,HalfCheetah-v5,PPO,vecnorm_large,0,225000,1325.7607352,29.74681345558354,1318.7779535,1277.501577,1383.547461,1000.0,0.0,10,0.0
+HalfCheetah-v5__PPO__tuned_screen__vecnorm_large__seed0__steps300000,tuned_screen,HalfCheetah-v5,PPO,vecnorm_large,0,250000,1300.6048988,26.804467047812658,1296.3994655,1263.811131,1360.057471,1000.0,0.0,10,0.0
+HalfCheetah-v5__PPO__tuned_screen__vecnorm_large__seed0__steps300000,tuned_screen,HalfCheetah-v5,PPO,vecnorm_large,0,275000,1389.6102841,32.12308231941021,1389.137488,1323.203467,1442.382054,1000.0,0.0,10,0.0
+HalfCheetah-v5__PPO__tuned_screen__vecnorm_large__seed0__steps300000,tuned_screen,HalfCheetah-v5,PPO,vecnorm_large,0,300000,1414.543314,49.015143338249274,1410.65497,1326.992572,1493.454779,1000.0,0.0,10,0.0

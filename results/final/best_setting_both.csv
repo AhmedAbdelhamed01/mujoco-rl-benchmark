@@ -1,0 +1,7 @@
+env_id,algorithm,selected_setting,screening_seeds,screening_timesteps,selection_reason
+HalfCheetah-v5,SAC,ls10k,"0,1",300000,highest_iqm_from_screening
+Hopper-v5,SAC,ls10k,"0,1",300000,highest_iqm_from_screening
+Walker2d-v5,SAC,ls10k,"0,1",300000,highest_iqm_from_screening
+HalfCheetah-v5,TQC,drop2_critics2,"0,1",300000,highest_iqm_from_screening
+Hopper-v5,TQC,drop2_critics2,"0,1",300000,highest_iqm_from_screening
+Walker2d-v5,TQC,drop2_critics2,"0,1",300000,highest_iqm_from_screening

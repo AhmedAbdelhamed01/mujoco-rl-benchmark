@@ -1,0 +1,13 @@
+run_id,track,env_id,algorithm,setting_name,seed,timestep,eval_mean_return,eval_std_return,eval_median_return,eval_min_return,eval_max_return,eval_mean_ep_length,eval_std_ep_length,n_eval_episodes,wall_clock_seconds_so_far
+Hopper-v5__TQC__tuned_screen__drop2_critics2__seed1__steps300000,tuned_screen,Hopper-v5,TQC,drop2_critics2,1,25000,276.04436240000007,3.953970773837388,275.4268815,268.861637,283.650899,128.9,2.118962010041709,10,0.0
+Hopper-v5__TQC__tuned_screen__drop2_critics2__seed1__steps300000,tuned_screen,Hopper-v5,TQC,drop2_critics2,1,50000,1393.3369963,154.96133831884964,1405.5010585,1193.477882,1626.65183,802.1,138.2146519005854,10,0.0
+Hopper-v5__TQC__tuned_screen__drop2_critics2__seed1__steps300000,tuned_screen,Hopper-v5,TQC,drop2_critics2,1,75000,1446.2729556,30.628747339187942,1438.9965465,1417.338357,1523.0751,449.4,9.36162379077476,10,0.0
+Hopper-v5__TQC__tuned_screen__drop2_critics2__seed1__steps300000,tuned_screen,Hopper-v5,TQC,drop2_critics2,1,100000,240.95650650000002,4.523817944304704,240.365968,233.907863,249.456932,130.0,1.9493588689617927,10,0.0
+Hopper-v5__TQC__tuned_screen__drop2_critics2__seed1__steps300000,tuned_screen,Hopper-v5,TQC,drop2_critics2,1,125000,3130.5904032,12.213777784923563,3130.5571175,3107.427793,3145.690301,1000.0,0.0,10,0.0
+Hopper-v5__TQC__tuned_screen__drop2_critics2__seed1__steps300000,tuned_screen,Hopper-v5,TQC,drop2_critics2,1,150000,3209.0083081,3.223693368616988,3209.3067195000003,3204.816937,3214.366581,1000.0,0.0,10,0.0
+Hopper-v5__TQC__tuned_screen__drop2_critics2__seed1__steps300000,tuned_screen,Hopper-v5,TQC,drop2_critics2,1,175000,3230.4636211,3.316356800378841,3230.213747,3223.659263,3235.54168,1000.0,0.0,10,0.0
+Hopper-v5__TQC__tuned_screen__drop2_critics2__seed1__steps300000,tuned_screen,Hopper-v5,TQC,drop2_critics2,1,200000,2867.8577047000003,875.8092901247968,3299.1865825,1106.105576,3329.266355,866.0,268.00597008275764,10,0.0
+Hopper-v5__TQC__tuned_screen__drop2_critics2__seed1__steps300000,tuned_screen,Hopper-v5,TQC,drop2_critics2,1,225000,3277.0317045999996,3.9842731907962947,3278.419831,3270.505977,3282.303253,1000.0,0.0,10,0.0
+Hopper-v5__TQC__tuned_screen__drop2_critics2__seed1__steps300000,tuned_screen,Hopper-v5,TQC,drop2_critics2,1,250000,3268.9265259999997,3.951988563649356,3270.246786,3258.203753,3272.577935,1000.0,0.0,10,0.0
+Hopper-v5__TQC__tuned_screen__drop2_critics2__seed1__steps300000,tuned_screen,Hopper-v5,TQC,drop2_critics2,1,275000,3287.8867457999995,5.2851966177797225,3287.7555595,3278.052766,3298.017989,1000.0,0.0,10,0.0
+Hopper-v5__TQC__tuned_screen__drop2_critics2__seed1__steps300000,tuned_screen,Hopper-v5,TQC,drop2_critics2,1,300000,868.8157156000001,5.832939190638444,869.28476,860.033831,876.889296,258.3,1.4177446878757827,10,0.0

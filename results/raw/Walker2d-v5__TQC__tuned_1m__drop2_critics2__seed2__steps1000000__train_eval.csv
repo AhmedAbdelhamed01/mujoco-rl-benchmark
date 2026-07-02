@@ -1,0 +1,5 @@
+run_id,track,env_id,algorithm,setting_name,seed,timestep,eval_mean_return,eval_std_return,eval_median_return,eval_min_return,eval_max_return,eval_mean_ep_length,eval_std_ep_length,n_eval_episodes,wall_clock_seconds_so_far
+Walker2d-v5__TQC__tuned_1m__drop2_critics2__seed2__steps1000000,tuned_1m,Walker2d-v5,TQC,drop2_critics2,2,925000,5370.187617400001,50.60442434763909,5392.8468379999995,5269.828195,5423.079069,1000.0,0.0,10,0.0
+Walker2d-v5__TQC__tuned_1m__drop2_critics2__seed2__steps1000000,tuned_1m,Walker2d-v5,TQC,drop2_critics2,2,950000,5271.7025091999985,56.31933181049521,5263.9152095,5167.86067,5353.290094,1000.0,0.0,10,0.0
+Walker2d-v5__TQC__tuned_1m__drop2_critics2__seed2__steps1000000,tuned_1m,Walker2d-v5,TQC,drop2_critics2,2,975000,5347.9104843000005,66.10651808165272,5343.2000530000005,5190.479916,5420.911047,1000.0,0.0,10,0.0
+Walker2d-v5__TQC__tuned_1m__drop2_critics2__seed2__steps1000000,tuned_1m,Walker2d-v5,TQC,drop2_critics2,2,1000000,5452.803717299999,26.960154884233535,5461.008788,5392.073136,5489.870652,1000.0,0.0,10,0.0

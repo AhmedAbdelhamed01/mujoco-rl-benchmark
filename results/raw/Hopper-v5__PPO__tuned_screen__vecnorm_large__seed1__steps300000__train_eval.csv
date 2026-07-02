@@ -1,0 +1,13 @@
+run_id,track,env_id,algorithm,setting_name,seed,timestep,eval_mean_return,eval_std_return,eval_median_return,eval_min_return,eval_max_return,eval_mean_ep_length,eval_std_ep_length,n_eval_episodes,wall_clock_seconds_so_far
+Hopper-v5__PPO__tuned_screen__vecnorm_large__seed1__steps300000,tuned_screen,Hopper-v5,PPO,vecnorm_large,1,25000,312.70027650000003,1.3218062944569635,313.3621545,310.991597,314.068022,136.6,0.4898979485566356,10,0.0
+Hopper-v5__PPO__tuned_screen__vecnorm_large__seed1__steps300000,tuned_screen,Hopper-v5,PPO,vecnorm_large,1,50000,641.536264,1.7178084878701556,641.0840734999999,639.18187,644.285729,212.3,0.45825756949558405,10,0.0
+Hopper-v5__PPO__tuned_screen__vecnorm_large__seed1__steps300000,tuned_screen,Hopper-v5,PPO,vecnorm_large,1,75000,694.639461,1.5765777236005236,694.5240405,691.793942,697.193335,229.2,0.6,10,0.0
+Hopper-v5__PPO__tuned_screen__vecnorm_large__seed1__steps300000,tuned_screen,Hopper-v5,PPO,vecnorm_large,1,100000,2858.5486278999997,5.037358104255434,2859.09073,2849.724896,2865.525777,1000.0,0.0,10,0.0
+Hopper-v5__PPO__tuned_screen__vecnorm_large__seed1__steps300000,tuned_screen,Hopper-v5,PPO,vecnorm_large,1,125000,2899.3120174000005,2.225425439353439,2899.951444,2893.741726,2902.196063,1000.0,0.0,10,0.0
+Hopper-v5__PPO__tuned_screen__vecnorm_large__seed1__steps300000,tuned_screen,Hopper-v5,PPO,vecnorm_large,1,150000,1820.9124901,199.5049781896395,1726.564351,1653.432167,2326.950444,558.1,60.185463361180496,10,0.0
+Hopper-v5__PPO__tuned_screen__vecnorm_large__seed1__steps300000,tuned_screen,Hopper-v5,PPO,vecnorm_large,1,175000,1550.0117549,100.37241689063343,1529.0274425,1448.200584,1809.30231,461.2,27.4,10,0.0
+Hopper-v5__PPO__tuned_screen__vecnorm_large__seed1__steps300000,tuned_screen,Hopper-v5,PPO,vecnorm_large,1,200000,2160.0599314,619.5565223596961,2014.7477155000001,1521.071686,3281.023907,632.9,190.45863067868572,10,0.0
+Hopper-v5__PPO__tuned_screen__vecnorm_large__seed1__steps300000,tuned_screen,Hopper-v5,PPO,vecnorm_large,1,225000,2838.8018897,686.010813144084,3269.5883405,1399.011645,3283.69114,860.9,218.25143756685773,10,0.0
+Hopper-v5__PPO__tuned_screen__vecnorm_large__seed1__steps300000,tuned_screen,Hopper-v5,PPO,vecnorm_large,1,250000,3253.2408996999998,8.880866497165856,3252.119126,3241.447537,3268.64154,1000.0,0.0,10,0.0
+Hopper-v5__PPO__tuned_screen__vecnorm_large__seed1__steps300000,tuned_screen,Hopper-v5,PPO,vecnorm_large,1,275000,2229.5643416000003,623.3721778960216,1835.761639,1702.882595,3299.386049,655.9,196.68830671903197,10,0.0
+Hopper-v5__PPO__tuned_screen__vecnorm_large__seed1__steps300000,tuned_screen,Hopper-v5,PPO,vecnorm_large,1,300000,2075.9771696000003,671.3616419708213,1705.1400720000001,1476.731283,3302.396457,610.9,210.9831509860444,10,0.0
