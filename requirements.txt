@@ -1,0 +1,32 @@
+# MuJoCo RL Project — CPU machines (CPU-1/CPU-2/CPU-3 and reserve CPUs).
+# Pinned to the exact versions used on the main machine, but with the CPU build
+# of PyTorch. The main/GPU machine uses requirements-gpu.txt (torch 2.12.1+cu126).
+#
+# Install:
+#   conda create -n RL_PROJECT python=3.10 -y
+#   conda activate RL_PROJECT
+#   pip install -r requirements.txt
+#
+# Verify:
+#   python -c "import stable_baselines3, sb3_contrib, gymnasium, mujoco, torch; print(torch.__version__, torch.cuda.is_available())"
+#   (expect: 2.12.1+cpu False)
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.12.1
+
+numpy==2.2.5
+pandas==2.3.3
+scipy==1.15.3
+matplotlib==3.10.9
+seaborn==0.13.2
+tqdm==4.68.2
+
+gymnasium[mujoco]==1.3.0
+mujoco==3.10.0
+stable-baselines3==2.9.0
+sb3-contrib==2.9.0
+tensorboard==2.20.0
+
+rliable==1.2.0
+statsmodels==0.14.6
+cloudpickle==3.1.2
