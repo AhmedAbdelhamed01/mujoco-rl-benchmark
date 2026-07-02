@@ -1,0 +1,40 @@
+# Python and Jupyter cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Large generated training artifacts
+models/
+tensorboard_logs/
+videos/
+logs/
+*.zip
+*_replay_buffer.pkl
+*_vecnormalize.pkl
+*resume_state.json
+
+# Temporary/backup files
+*.tmp
+*.bak
+*.OLD
+*.old
+
+# LaTeX build artifacts
+report/tables/
+report/text_snippets/
+report/*.tex
+report/*.bib
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
