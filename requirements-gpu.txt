@@ -1,0 +1,35 @@
+# MuJoCo RL Project — GPU / main machine (NVIDIA RTX 5000 Ada, CUDA 12.6).
+# Pinned to the exact working versions on the main machine.
+#
+# Install:
+#   conda activate RL_PROJECT
+#   pip install -r requirements-gpu.txt
+#
+# Verify:
+#   python -c "import torch; print(torch.__version__, torch.cuda.is_available())"
+#   (expect: 2.12.1+cu126 True)
+
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.12.1+cu126
+
+numpy==2.2.5
+pandas==2.3.3
+scipy==1.15.3
+matplotlib==3.10.9
+seaborn==0.13.2
+tqdm==4.68.2
+
+gymnasium[mujoco]==1.3.0
+mujoco==3.10.0
+stable-baselines3==2.9.0
+sb3-contrib==2.9.0
+tensorboard==2.20.0
+
+rliable==1.2.0
+statsmodels==0.14.6
+cloudpickle==3.1.2
+
+# Jupyter (analysis notebooks run on the main machine only)
+jupyter>=1.0.0
+ipykernel>=6.25.0
+nbconvert>=7.0.0
